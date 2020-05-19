@@ -1,0 +1,10 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"brokenlilthing.msh"
+
+
+[Properties]		
+
+GeometryName	=	"brokenlilthing"
+FoleyFXGroup    = "stone_foley"

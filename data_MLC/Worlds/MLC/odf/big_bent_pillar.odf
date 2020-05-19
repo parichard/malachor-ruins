@@ -1,0 +1,9 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"big_bent_pillar.msh"
+
+
+[Properties]		
+
+GeometryName	=	"big_bent_pillar"

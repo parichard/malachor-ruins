@@ -1,0 +1,16 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"ecriture_phtshop"
+		"harsh_rock_stairs"
+		"rock_ore"
+		"rock_ore_bump"
+		"dark_stone"
+		"tat3_bldg_keep_detail"
+		"rock_bridge_pillar"
+		"rock_bridge_pillar_bump"
+	}
+}

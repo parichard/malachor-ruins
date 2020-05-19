@@ -1,0 +1,11 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"blue_marble"
+		"rock_ore"
+		"rock_ore_bump"
+	}
+}

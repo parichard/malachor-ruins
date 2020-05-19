@@ -1,0 +1,1179 @@
+
+Hint("HintNode0", "0")
+{
+	Position(-206.746094, 18.477238, -122.911942);
+	Rotation(0.667571, 0.000000, 0.744546, 0.000000);
+	PrimaryStance(2);
+	Mode(3);
+}
+
+Hint("HintNode1", "0")
+{
+	Position(-205.239456, 18.883102, -134.609573);
+	Rotation(0.682285, 0.000000, 0.731086, 0.000000);
+	PrimaryStance(2);
+	Mode(3);
+}
+
+Hint("HintNode2", "5")
+{
+	Position(-221.279953, 18.568954, -129.078491);
+	Rotation(0.689540, 0.000000, 0.724247, 0.000000);
+	Mode(0);
+	CommandPost("cp1");
+}
+
+Hint("HintNode8", "2")
+{
+	Position(-151.947159, 7.487707, -234.881058);
+	Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+	PrimaryStance(7);
+	SecondaryStance(16);
+	Mode(0);
+}
+
+Hint("HintNode9", "2")
+{
+	Position(-143.960114, 7.762693, -235.112518);
+	Rotation(0.994995, 0.000000, -0.099925, 0.000000);
+	PrimaryStance(7);
+	SecondaryStance(8);
+	Mode(0);
+}
+
+Hint("HintNode10", "0")
+{
+	Position(-32.382286, 5.058618, -172.097473);
+	Rotation(0.588592, 0.000000, -0.808431, 0.000000);
+	PrimaryStance(7);
+	SecondaryStance(24);
+	Mode(2);
+}
+
+Hint("HintNode13", "2")
+{
+	Position(-141.014679, 5.691379, -116.910057);
+	Rotation(0.613719, 0.000000, 0.789524, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(25);
+	Mode(3);
+}
+
+Hint("HintNode14", "2")
+{
+	Position(-123.663300, 4.446973, -125.745712);
+	Rotation(0.807979, 0.000000, -0.589212, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(25);
+	Mode(3);
+}
+
+Hint("HintNode15", "0")
+{
+	Position(-93.560005, 8.829897, -130.775192);
+	Rotation(0.717870, 0.000000, -0.696177, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(26);
+	Mode(1);
+}
+
+Hint("HintNode16", "2")
+{
+	Position(-127.670868, 9.002453, -179.273178);
+	Rotation(0.689540, 0.000000, 0.724247, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(16);
+	Mode(3);
+}
+
+Hint("HintNode17", "2")
+{
+	Position(-84.837357, 8.849887, -189.944885);
+	Rotation(0.847307, 0.000000, -0.531104, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(17);
+	Mode(3);
+}
+
+Hint("HintNode18", "5")
+{
+	Position(-36.550407, 0.900015, -77.761894);
+	Rotation(0.613719, 0.000000, 0.789524, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(26);
+	Mode(3);
+}
+
+Hint("HintNode19", "5")
+{
+	Position(-65.117683, 3.738785, -72.067528);
+	Rotation(0.689540, 0.000000, -0.724247, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(26);
+	Mode(3);
+}
+
+Hint("HintNode20", "2")
+{
+	Position(-45.852386, 8.452408, -130.939758);
+	Rotation(0.710893, 0.000000, -0.703300, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(1);
+	Mode(3);
+}
+
+Hint("HintNode22", "0")
+{
+	Position(-145.401367, 8.076340, -244.704590);
+	Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(26);
+	Mode(3);
+}
+
+Hint("HintNode23", "2")
+{
+	Position(-144.847839, 8.967004, -164.409698);
+	Rotation(-0.296151, 0.000000, -0.955141, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(25);
+	Mode(0);
+}
+
+Hint("HintNode24", "2")
+{
+	Position(-143.395676, 8.476127, -167.693924);
+	Rotation(0.961069, 0.000000, -0.276309, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(25);
+	Mode(0);
+}
+
+Hint("HintNode25", "2")
+{
+	Position(-128.837234, 6.821458, -87.473640);
+	Rotation(0.703845, 0.000000, 0.710354, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(17);
+	Mode(0);
+}
+
+Hint("HintNode26", "2")
+{
+	Position(-84.287018, 2.594054, -77.273232);
+	Rotation(0.435512, 0.000000, -0.900183, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(27);
+	Mode(0);
+}
+
+Hint("HintNode27", "2")
+{
+	Position(-87.371506, 2.500695, -78.815987);
+	Rotation(0.836548, 0.000000, 0.547894, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(27);
+	Mode(0);
+}
+
+Hint("HintNode28", "2")
+{
+	Position(-112.253166, 3.190000, -119.693718);
+	Rotation(0.682285, 0.000000, -0.731086, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(19);
+	Mode(0);
+}
+
+Hint("HintNode29", "2")
+{
+	Position(-162.855133, 6.109964, -134.130707);
+	Rotation(-0.488889, 0.000000, -0.872346, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(16);
+	Mode(0);
+}
+
+Hint("HintNode30", "2")
+{
+	Position(-163.206696, 6.148550, -125.001427);
+	Rotation(0.877545, 0.000000, 0.479494, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(8);
+	Mode(0);
+}
+
+Hint("HintNode31", "2")
+{
+	Position(-162.830856, 7.368337, -156.111603);
+	Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(16);
+	Mode(0);
+}
+
+Hint("HintNode32", "2")
+{
+	Position(-151.781723, 6.343122, -134.160629);
+	Rotation(0.462580, 0.000000, -0.886577, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(8);
+	Mode(0);
+}
+
+Hint("HintNode33", "2")
+{
+	Position(-151.622498, 6.069876, -125.172173);
+	Rotation(0.904807, 0.000000, -0.425821, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(16);
+	Mode(0);
+}
+
+Hint("HintNode34", "2")
+{
+	Position(-189.893677, 9.551994, -184.447952);
+	Rotation(0.807979, 0.000000, 0.589212, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(17);
+	Mode(0);
+}
+
+Hint("HintNode35", "2")
+{
+	Position(-187.898270, 9.849160, -183.674942);
+	Rotation(0.565416, 0.000000, -0.824806, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(9);
+	Mode(0);
+}
+
+Hint("HintNode36", "2")
+{
+	Position(-51.478226, 2.574993, -177.591721);
+	Rotation(0.589831, 0.000000, -0.807527, 0.000000);
+	PrimaryStance(1);
+	SecondaryStance(10);
+	Mode(0);
+}
+
+Hint("HintNode37", "2")
+{
+	Position(-49.986546, 1.899939, -188.343536);
+	Rotation(0.731610, 0.000000, -0.681724, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(18);
+	Mode(0);
+}
+
+Hint("HintNode40", "2")
+{
+	Position(-87.517174, 6.618517, -169.027267);
+	Rotation(0.265974, 0.000000, -0.963980, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(18);
+	Mode(0);
+}
+
+Hint("HintNode41", "2")
+{
+	Position(-98.444359, 5.983862, -172.653641);
+	Rotation(0.237024, 0.000000, -0.971504, 0.000000);
+	PrimaryStance(1);
+	SecondaryStance(10);
+	Mode(0);
+}
+
+Hint("HintNode42", "2")
+{
+	Position(-153.147324, 6.334087, -135.124863);
+	Rotation(0.949287, 0.000000, 0.314410, 0.000000);
+	PrimaryStance(1);
+	SecondaryStance(18);
+	Mode(0);
+}
+
+Hint("HintNode43", "2")
+{
+	Position(-146.103470, 6.721275, -105.622276);
+	Rotation(0.265974, 0.000000, -0.963980, 0.000000);
+	PrimaryStance(1);
+	SecondaryStance(18);
+	Mode(0);
+}
+
+Hint("HintNode44", "2")
+{
+	Position(-175.584915, 7.806099, -110.317978);
+	Rotation(0.506187, 0.000000, 0.862424, 0.000000);
+	PrimaryStance(1);
+	SecondaryStance(18);
+	Mode(0);
+}
+
+Hint("HintNode45", "2")
+{
+	Position(-90.144196, 7.310815, -183.542999);
+	Rotation(0.710893, 0.000000, 0.703300, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(26);
+	Mode(0);
+}
+
+Hint("HintNode46", "2")
+{
+	Position(-91.053734, 8.231077, -190.181732);
+	Rotation(0.710893, 0.000000, 0.703300, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(26);
+	Mode(0);
+}
+
+Hint("HintNode47", "2")
+{
+	Position(-29.631332, 1.819228, -116.595131);
+	Rotation(-0.000767, 0.000000, -1.000000, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(18);
+	Mode(0);
+}
+
+Hint("HintNode48", "2")
+{
+	Position(-26.374062, 0.488130, -91.622162);
+	Rotation(-0.030675, 0.000000, -0.999529, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(10);
+	Mode(0);
+}
+
+Hint("HintNode49", "2")
+{
+	Position(-153.817047, 6.191133, -124.199257);
+	Rotation(0.613222, 0.024706, 0.788884, 0.031783);
+	PrimaryStance(2);
+	SecondaryStance(10);
+	Mode(0);
+}
+
+Hint("HintNode50", "2")
+{
+	Position(-161.878677, 6.132234, -123.871910);
+	Rotation(0.342300, 0.000000, -0.939590, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(18);
+	Mode(0);
+}
+
+Hint("HintNode51", "2")
+{
+	Position(-161.339630, 6.079308, -135.104507);
+	Rotation(0.862035, 0.000000, -0.506848, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(10);
+	Mode(0);
+}
+
+Hint("HintNode52", "2")
+{
+	Position(-136.712570, 5.443202, -117.661079);
+	Rotation(0.724776, 0.000000, -0.688985, 0.000000);
+	PrimaryStance(1);
+	SecondaryStance(26);
+	Mode(0);
+}
+
+Hint("HintNode53", "2")
+{
+	Position(-52.052265, 1.329891, -72.171822);
+	Rotation(0.648348, 0.359563, -0.519998, -0.424219);
+	PrimaryStance(3);
+	SecondaryStance(26);
+	Mode(0);
+}
+
+Hint("HintNode55", "2")
+{
+	Position(-121.956093, 4.175749, -151.957306);
+	Rotation(0.836548, 0.000000, 0.547894, 0.000000);
+	PrimaryStance(1);
+	SecondaryStance(9);
+	Mode(0);
+}
+
+Hint("HintNode56", "2")
+{
+	Position(-118.419014, 3.300405, -149.931839);
+	Rotation(0.621561, 0.000000, -0.783366, 0.000000);
+	PrimaryStance(1);
+	SecondaryStance(17);
+	Mode(0);
+}
+
+Hint("HintNode57", "2")
+{
+	Position(-136.090195, 8.449467, -161.221832);
+	Rotation(0.841969, 0.000000, 0.539526, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(25);
+	Mode(0);
+}
+
+Hint("HintNode58", "2")
+{
+	Position(-92.749397, 2.925483, -150.320251);
+	Rotation(0.731610, 0.000000, -0.681724, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(10);
+	Mode(0);
+}
+
+Hint("HintNode59", "2")
+{
+	Position(-143.312088, 8.615457, -198.286896);
+	Rotation(0.070505, 0.000000, -0.997511, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(16);
+	Mode(0);
+}
+
+Hint("HintNode54", "2")
+{
+	Position(-21.579916, 0.983891, -161.166153);
+	Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(1);
+	Mode(0);
+}
+
+Hint("HintNode60", "2")
+{
+	Position(-139.894348, 5.544847, -129.313965);
+	Rotation(0.717870, 0.000000, 0.696177, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(24);
+	Mode(0);
+}
+
+Hint("HintNode61", "2")
+{
+	Position(-135.188934, 5.753613, -129.096832);
+	Rotation(0.703845, 0.000000, -0.710354, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(24);
+	Mode(0);
+}
+
+Hint("HintNode62", "2")
+{
+	Position(-144.233551, 9.397358, -149.954681);
+	Rotation(0.993949, 0.000000, 0.109841, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(7);
+	Mode(1);
+}
+
+Hint("HintNode63", "0")
+{
+	Position(-138.775742, 9.589933, -106.650017);
+	Rotation(0.257831, 0.000000, -0.966190, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(24);
+	Mode(3);
+}
+
+Hint("HintNode64", "2")
+{
+	Position(-137.531235, 5.466858, -131.565994);
+	Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(24);
+	Mode(3);
+}
+
+Hint("HintNode65", "2")
+{
+	Position(-137.827332, 5.340986, -127.044937);
+	Rotation(-0.020707, 0.000000, -0.999785, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(24);
+	Mode(3);
+}
+
+Hint("HintNode67", "2")
+{
+	Position(-116.927025, 8.426266, -178.827560);
+	Rotation(0.589831, 0.000000, -0.807527, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(8);
+	Mode(3);
+}
+
+Hint("HintNode68", "2")
+{
+	Position(-118.707329, 8.549539, -180.412827);
+	Rotation(0.974665, -0.047579, 0.216454, -0.030180);
+	PrimaryStance(3);
+	SecondaryStance(16);
+	Mode(3);
+}
+
+Hint("HintNode69", "2")
+{
+	Position(-99.675011, 4.961045, -165.225235);
+	Rotation(-0.256349, 0.000000, -0.966584, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(25);
+	Mode(3);
+}
+
+Hint("HintNode70", "2")
+{
+	Position(-28.740145, 0.663131, -146.061539);
+	Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(25);
+	Mode(3);
+}
+
+Hint("HintNode71", "2")
+{
+	Position(-26.757204, 0.896944, -148.106735);
+	Rotation(-0.435512, 0.000000, -0.900183, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(9);
+	Mode(3);
+}
+
+Hint("HintNode72", "2")
+{
+	Position(-160.644485, 8.770770, -204.328735);
+	Rotation(0.891493, 0.000000, 0.453034, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(9);
+	Mode(3);
+}
+
+Hint("HintNode73", "2")
+{
+	Position(-166.678223, 6.817350, -146.494278);
+	Rotation(0.862812, 0.000000, -0.505525, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(19);
+	Mode(3);
+}
+
+Hint("HintNode74", "2")
+{
+	Position(-237.775940, 6.398875, -198.530441);
+	Rotation(-0.426515, 0.000000, -0.904481, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(19);
+	Mode(3);
+}
+
+Hint("HintNode75", "2")
+{
+	Position(-135.779541, 9.479657, -151.642380);
+	Rotation(0.862812, 0.000000, 0.505525, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(3);
+	Mode(3);
+}
+
+Hint("HintNode76", "2")
+{
+	Position(-169.907150, 7.761425, -146.474274);
+	Rotation(0.659826, 0.000000, 0.751418, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(11);
+	Mode(3);
+}
+
+Hint("HintNode77", "2")
+{
+	Position(-147.499863, 10.685105, -149.535446);
+	Rotation(0.882283, 0.000000, -0.470720, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(3);
+	Mode(1);
+}
+
+Hint("HintNode78", "2")
+{
+	Position(-219.327637, 18.339491, -135.840378);
+	Rotation(0.783843, 0.000000, 0.620959, 0.000000);
+	PrimaryStance(1);
+	SecondaryStance(24);
+	Mode(0);
+}
+
+Hint("HintNode79", "2")
+{
+	Position(-230.803528, 16.303923, -142.176941);
+	Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(1);
+	Mode(0);
+}
+
+Hint("HintNode80", "2")
+{
+	Position(-213.454544, 18.054932, -137.480377);
+	Rotation(0.886932, 0.000000, -0.461900, 0.000000);
+	PrimaryStance(1);
+	SecondaryStance(24);
+	Mode(0);
+}
+
+Hint("HintNode81", "2")
+{
+	Position(-213.586411, 17.816956, -121.248047);
+	Rotation(0.480166, 0.000000, -0.877177, 0.000000);
+	PrimaryStance(1);
+	SecondaryStance(24);
+	Mode(0);
+}
+
+Hint("HintNode83", "2")
+{
+	Position(-222.910172, 18.367859, -136.320999);
+	Rotation(0.831043, 0.000000, -0.556207, 0.000000);
+	PrimaryStance(1);
+	SecondaryStance(24);
+	Mode(0);
+}
+
+Hint("HintNode84", "2")
+{
+	Position(-237.393463, 18.249125, -120.171295);
+	Rotation(-0.480167, 0.000000, -0.877177, 0.000000);
+	PrimaryStance(1);
+	SecondaryStance(24);
+	Mode(0);
+}
+
+Hint("HintNode85", "2")
+{
+	Position(-222.499939, 18.626266, -119.980637);
+	Rotation(0.416081, 0.000000, -0.909328, 0.000000);
+	PrimaryStance(1);
+	SecondaryStance(24);
+	Mode(0);
+}
+
+Hint("HintNode86", "2")
+{
+	Position(-202.343979, 16.973206, -132.156143);
+	Rotation(0.724776, 0.000000, -0.688985, 0.000000);
+	PrimaryStance(1);
+	SecondaryStance(25);
+	Mode(0);
+}
+
+Hint("HintNode87", "2")
+{
+	Position(-202.392273, 16.720016, -127.014565);
+	Rotation(0.710893, 0.000000, -0.703300, 0.000000);
+	PrimaryStance(1);
+	SecondaryStance(25);
+	Mode(0);
+}
+
+Hint("HintNode88", "2")
+{
+	Position(-117.641556, 4.506447, -123.124718);
+	Rotation(-0.390111, 0.000000, -0.920768, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(17);
+	Mode(0);
+}
+
+Hint("HintNode89", "2")
+{
+	Position(-119.623482, 3.977880, -135.541168);
+	Rotation(0.841969, 0.000000, 0.539526, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(9);
+	Mode(0);
+}
+
+Hint("HintNode90", "2")
+{
+	Position(-126.576996, 4.744774, -124.306755);
+	Rotation(0.540171, 0.000000, 0.841555, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(25);
+	Mode(0);
+}
+
+Hint("HintNode91", "2")
+{
+	Position(-125.985687, 4.602375, -126.723122);
+	Rotation(0.958266, 0.000000, 0.285878, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(25);
+	Mode(0);
+}
+
+Hint("HintNode92", "2")
+{
+	Position(-123.408112, 4.506466, -123.183662);
+	Rotation(0.380911, 0.000000, -0.924612, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(25);
+	Mode(0);
+}
+
+Hint("HintNode93", "2")
+{
+	Position(-138.951096, 5.612447, -115.593201);
+	Rotation(0.019174, 0.000000, -0.999816, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(25);
+	Mode(0);
+}
+
+Hint("HintNode94", "2")
+{
+	Position(-148.724365, 6.865151, -78.534027);
+	Rotation(0.039106, 0.000000, -0.999235, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(2);
+	Mode(0);
+}
+
+Hint("HintNode95", "2")
+{
+	Position(-138.867279, 6.865151, -78.816727);
+	Rotation(0.039106, 0.000000, -0.999235, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(2);
+	Mode(0);
+}
+
+Hint("HintNode96", "2")
+{
+	Position(-145.206024, 6.865150, -78.689194);
+	Rotation(0.039106, 0.000000, -0.999235, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(2);
+	Mode(0);
+}
+
+Hint("HintNode97", "2")
+{
+	Position(-131.503677, 6.865152, -96.772034);
+	Rotation(0.710893, 0.000000, -0.703300, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(3);
+	Mode(0);
+}
+
+Hint("HintNode98", "2")
+{
+	Position(-131.077744, 6.865152, -91.620094);
+	Rotation(0.710893, 0.000000, -0.703300, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(3);
+	Mode(0);
+}
+
+Hint("HintNode99", "2")
+{
+	Position(-153.104233, 6.865150, -105.784424);
+	Rotation(0.932301, 0.000000, 0.361684, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(1);
+	Mode(0);
+}
+
+Hint("HintNode100", "2")
+{
+	Position(-92.871643, 6.546284, -143.197891);
+	Rotation(0.548535, 0.000000, -0.836128, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(1);
+	Mode(0);
+}
+
+Hint("HintNode102", "0")
+{
+	Position(-108.023636, 3.446733, -125.783424);
+	Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(1);
+	Mode(0);
+}
+
+Hint("HintNode104", "2")
+{
+	Position(-39.725269, 0.515796, -188.874084);
+	Rotation(0.975954, 0.000000, -0.217978, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(1);
+	Mode(0);
+}
+
+Hint("HintNode105", "2")
+{
+	Position(-32.592484, 5.290288, -171.381271);
+	Rotation(0.613719, 0.000000, -0.789524, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(1);
+	Mode(0);
+}
+
+Hint("HintNode106", "2")
+{
+	Position(-30.059982, 3.863959, -163.571442);
+	Rotation(0.961069, 0.000000, -0.276309, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(1);
+	Mode(0);
+}
+
+Hint("HintNode103", "2")
+{
+	Position(-43.121841, 2.192574, -186.042297);
+	Rotation(0.764920, 0.000000, 0.644125, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(1);
+	Mode(0);
+}
+
+Hint("HintNode107", "2")
+{
+	Position(-23.072632, 1.749235, -155.160324);
+	Rotation(0.573611, 0.000000, -0.819128, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(1);
+	Mode(0);
+}
+
+Hint("HintNode108", "2")
+{
+	Position(-89.720917, 7.837763, -178.405548);
+	Rotation(0.958266, 0.000000, -0.285878, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(8);
+	Mode(0);
+}
+
+Hint("HintNode109", "2")
+{
+	Position(-188.912918, 13.321989, -172.022049);
+	Rotation(-0.353087, 0.000000, -0.935590, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(9);
+	Mode(0);
+}
+
+Hint("HintNode110", "2")
+{
+	Position(-166.568939, 8.900105, -178.840622);
+	Rotation(0.597853, 0.000000, -0.801605, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(9);
+	Mode(0);
+}
+
+Hint("HintNode111", "2")
+{
+	Position(-97.686951, 7.495274, -130.538010);
+	Rotation(0.696727, 0.000000, 0.717336, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(1);
+	Mode(0);
+}
+
+Hint("HintNode112", "2")
+{
+	Position(-90.128395, 8.162977, -140.632278);
+	Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(1);
+	Mode(0);
+}
+
+Hint("HintNode113", "2")
+{
+	Position(-90.509026, 8.394236, -120.412292);
+	Rotation(-0.010738, 0.000000, -0.999942, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(1);
+	Mode(0);
+}
+
+Hint("HintNode114", "0")
+{
+	Position(-46.022579, 7.888843, -128.275970);
+	Rotation(0.689263, 0.000000, -0.724511, 0.000000);
+	PrimaryStance(1);
+	SecondaryStance(17);
+	Mode(3);
+}
+
+Hint("HintNode115", "2")
+{
+	Position(-60.694084, 2.709896, -88.253059);
+	Rotation(0.960644, 0.000000, -0.277783, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(8);
+	Mode(3);
+}
+
+Hint("HintNode116", "2")
+{
+	Position(-217.574356, 18.704880, -133.842728);
+	Rotation(0.710893, 0.000000, 0.703300, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(8);
+	Mode(3);
+}
+
+Hint("HintNode117", "2")
+{
+	Position(-228.011368, 18.227699, -133.959610);
+	Rotation(0.710893, 0.000000, 0.703300, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(8);
+	Mode(3);
+}
+
+Hint("HintNode118", "2")
+{
+	Position(-227.545502, 18.455170, -124.808189);
+	Rotation(0.703845, 0.000000, 0.710354, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(16);
+	Mode(3);
+}
+
+Hint("HintNode119", "2")
+{
+	Position(-218.327957, 17.931709, -124.695770);
+	Rotation(0.667571, 0.000000, 0.744546, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(16);
+	Mode(3);
+}
+
+Hint("HintNode120", "2")
+{
+	Position(-237.731476, 18.241407, -124.779411);
+	Rotation(0.682285, 0.000000, 0.731086, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(16);
+	Mode(3);
+}
+
+Hint("HintNode121", "2")
+{
+	Position(-238.043915, 17.936892, -133.801926);
+	Rotation(0.710893, 0.000000, 0.703300, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(8);
+	Mode(3);
+}
+
+Hint("HintNode122", "2")
+{
+	Position(-218.761398, 18.381945, -120.944061);
+	Rotation(-0.343741, 0.000000, -0.939064, 0.000000);
+	PrimaryStance(1);
+	SecondaryStance(16);
+	Mode(3);
+}
+
+Hint("HintNode123", "2")
+{
+	Position(-155.859161, 8.048996, -216.727997);
+	Rotation(0.980030, 0.000000, -0.198850, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(8);
+	Mode(3);
+}
+
+Hint("HintNode124", "2")
+{
+	Position(-110.244858, 5.287414, -81.676155);
+	Rotation(0.589831, 0.000000, -0.807527, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(2);
+	Mode(3);
+}
+
+Hint("HintNode125", "2")
+{
+	Position(-111.034615, 5.787000, -86.257256);
+	Rotation(0.589831, 0.000000, -0.807527, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(2);
+	Mode(3);
+}
+
+Hint("HintNode131", "2")
+{
+	Position(-145.599365, 6.897499, -95.958702);
+	Rotation(0.682285, 0.000000, 0.731086, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(17);
+	Mode(3);
+}
+
+Hint("HintNode133", "2")
+{
+	Position(-147.816238, 6.865152, -90.651588);
+	Rotation(0.952375, 0.000000, 0.304929, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(9);
+	Mode(3);
+}
+
+Hint("HintNode134", "2")
+{
+	Position(-148.147720, 6.743456, -93.213882);
+	Rotation(-0.343741, 0.000000, -0.939064, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(17);
+	Mode(3);
+}
+
+Hint("HintNode135", "2")
+{
+	Position(-142.802872, 7.181535, -88.008163);
+	Rotation(0.674962, 0.000000, -0.737852, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(17);
+	Mode(3);
+}
+
+Hint("HintNode136", "2")
+{
+	Position(-140.080765, 6.865155, -91.010124);
+	Rotation(0.975870, 0.000000, -0.218353, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(17);
+	Mode(3);
+}
+
+Hint("HintNode137", "2")
+{
+	Position(-140.011841, 6.865152, -93.009140);
+	Rotation(0.285143, 0.000000, -0.958485, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(9);
+	Mode(3);
+}
+
+Hint("HintNode138", "2")
+{
+	Position(-136.598068, 6.865151, -81.429420);
+	Rotation(-0.286613, 0.000000, -0.958046, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(2);
+	Mode(3);
+}
+
+Hint("HintNode139", "2")
+{
+	Position(-134.356583, 6.808681, -98.489479);
+	Rotation(0.506187, 0.000000, -0.862424, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(2);
+	Mode(3);
+}
+
+Hint("HintNode126", "0")
+{
+	Position(-151.361923, 6.865153, -103.821373);
+	Rotation(0.406994, 0.000000, -0.913431, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(3);
+	Mode(3);
+}
+
+Hint("HintNode127", "2")
+{
+	Position(-141.219223, 8.174105, -164.061722);
+	Rotation(0.506187, 0.000000, -0.862424, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(17);
+	Mode(3);
+}
+
+Hint("HintNode128", "2")
+{
+	Position(-129.982773, 7.496379, -165.159393);
+	Rotation(0.148627, 0.000000, -0.988893, 0.000000);
+	PrimaryStance(2);
+	SecondaryStance(1);
+	Mode(3);
+}
+
+Hint("HintNode129", "2")
+{
+	Position(-99.748161, 5.925385, -174.680145);
+	Rotation(0.999801, 0.000000, 0.019940, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(17);
+	Mode(3);
+}
+
+Hint("HintNode130", "2")
+{
+	Position(-136.131134, 9.259069, -186.322800);
+	Rotation(0.745058, 0.000000, 0.667000, 0.000000);
+	PrimaryStance(3);
+	SecondaryStance(24);
+	Mode(3);
+}
+
+Hint("HintNode132", "0")
+{
+	Position(-193.632111, 14.518383, -165.246201);
+	Rotation(0.971322, 0.000000, 0.237769, 0.000000);
+	PrimaryStance(2);
+	Mode(1);
+}
+
+Hint("HintNode140", "0")
+{
+	Position(-89.586967, 2.551368, -160.284454);
+	Rotation(0.758460, 0.000000, -0.651720, 0.000000);
+	PrimaryStance(2);
+	Mode(1);
+}
+
+Hint("HintNode141", "0")
+{
+	Position(-50.670208, 1.568542, -68.411514);
+	Rotation(0.621560, 0.000000, -0.783366, 0.000000);
+	PrimaryStance(2);
+	Mode(3);
+}
+
+Hint("HintNode142", "0")
+{
+	Position(-91.326752, 8.334876, -200.244537);
+	Rotation(0.867810, 0.000000, -0.496897, 0.000000);
+	PrimaryStance(3);
+	Mode(1);
+}
+
+Hint("HintNode143", "0")
+{
+	Position(-204.297363, 11.810593, -184.990082);
+	Rotation(0.667571, 0.000000, 0.744546, 0.000000);
+	PrimaryStance(2);
+	Mode(1);
+}
+
+Hint("HintNode144", "0")
+{
+	Position(-89.060219, 3.153360, -97.092224);
+	Rotation(0.514761, 0.000000, -0.857333, 0.000000);
+	PrimaryStance(2);
+	Mode(1);
+}

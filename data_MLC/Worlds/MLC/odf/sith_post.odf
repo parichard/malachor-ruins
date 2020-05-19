@@ -1,0 +1,9 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"sith_post.msh"
+
+
+[Properties]		
+
+GeometryName	=	"sith_post"

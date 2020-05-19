@@ -1,0 +1,15 @@
+
+ucft
+{
+	REQN
+	{
+		"model"
+		"pyramide_red_cap"
+	}
+	REQN
+	{
+		"config"
+		"uta1_steamgrate"
+		"uta1_post_spot_red"
+	}
+}

@@ -1,0 +1,9 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"pillard.msh"
+
+
+[Properties]		
+
+GeometryName	=	"pillard"

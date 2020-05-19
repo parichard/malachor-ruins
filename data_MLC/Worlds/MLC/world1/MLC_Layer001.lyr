@@ -1,0 +1,192 @@
+Version(3);
+SaveType(0);
+
+Camera("camera")
+{
+	Rotation(0.562, 0.478, -0.514, 0.437);
+	Position(-47.163, 300.425, -158.642);
+	FieldOfView(55.400);
+	NearPlane(1.000);
+	FarPlane(5000.000);
+	ZoomFactor(1.000);
+	Bookmark(0.000, 0.000, 0.000,  1.000, 0.000, 0.000, 0.000);
+	Bookmark(0.000, 0.000, 0.000,  1.000, 0.000, 0.000, 0.000);
+	Bookmark(0.000, 0.000, 0.000,  1.000, 0.000, 0.000, 0.000);
+	Bookmark(0.000, 0.000, 0.000,  1.000, 0.000, 0.000, 0.000);
+	Bookmark(0.000, 0.000, 0.000,  1.000, 0.000, 0.000, 0.000);
+	Bookmark(0.000, 0.000, 0.000,  1.000, 0.000, 0.000, 0.000);
+	Bookmark(0.000, 0.000, 0.000,  1.000, 0.000, 0.000, 0.000);
+	Bookmark(0.000, 0.000, 0.000,  1.000, 0.000, 0.000, 0.000);
+	Bookmark(0.000, 0.000, 0.000,  1.000, 0.000, 0.000, 0.000);
+	Bookmark(-120.689, 55.945, -127.387,  0.648, 0.331, -0.610, 0.312);
+}
+LightName("MLC_Layer001.LGT");
+ControllerManager("StandardCtrlMgr");
+
+WorldExtents()
+{
+	Min(0.000000, 0.000000, 0.000000);
+	Max(0.000000, 0.000000, 0.000000);
+}
+
+NextSequence(-20481672);
+
+Object("mlc_godray7", "mlc_godray", 430543755)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(-143.000, 50.000, -107.000);
+	SeqNo(430543755);
+	Team(0);
+	NetworkId(-1);
+	Layer(4);
+}
+
+Object("mlc_godray5", "mlc_godray", 490272241)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(-13.000, 50.000, -183.000);
+	SeqNo(490272241);
+	Team(0);
+	NetworkId(-1);
+	Layer(4);
+}
+
+Object("mlc_godray12", "mlc_godray", 674001841)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(-137.000, 50.000, -188.000);
+	SeqNo(674001841);
+	Team(0);
+	NetworkId(-1);
+	Layer(4);
+}
+
+Object("mlc_godray14", "mlc_godray", 1048812106)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(-148.000, 50.000, -243.000);
+	SeqNo(1048812106);
+	Team(0);
+	NetworkId(-1);
+	Layer(4);
+}
+
+Object("mlc_godray3", "mlc_godray", 1376786345)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(-90.000, 50.000, -163.000);
+	SeqNo(1376786345);
+	Team(0);
+	NetworkId(-1);
+	Layer(4);
+}
+
+Object("mlc_godray4", "mlc_godray", 1497508158)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(-28.000, 50.000, -81.000);
+	SeqNo(1497508158);
+	Team(0);
+	NetworkId(-1);
+	Layer(4);
+}
+
+Object("mlc_godray13", "mlc_godray", 1745315200)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(-186.000, 50.000, -137.000);
+	SeqNo(1745315200);
+	Team(0);
+	NetworkId(-1);
+	Layer(4);
+}
+
+Object("mlc_godray2", "mlc_godray", 1771515824)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(-198.000, 50.000, -187.000);
+	SeqNo(1771515824);
+	Team(0);
+	NetworkId(-1);
+	Layer(4);
+}
+
+Object("mlc_godray6", "mlc_godray", 1887288573)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(-164.000, 50.000, 7.000);
+	SeqNo(1887288573);
+	Team(0);
+	NetworkId(-1);
+	Layer(4);
+}
+
+Object("mlc_godray", "mlc_godray", 2026922196)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(-241.000, 50.000, -181.000);
+	SeqNo(2026922196);
+	Team(0);
+	NetworkId(-1);
+	Layer(4);
+}
+
+Object("mlc_godray11", "mlc_godray", -1940128843)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(-112.000, 50.000, -189.000);
+	SeqNo(-1940128843);
+	Team(0);
+	NetworkId(-1);
+	Layer(4);
+}
+
+Object("mlc_godray9", "mlc_godray", -1772610959)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(-53.000, 50.000, -33.000);
+	SeqNo(-1772610959);
+	Team(0);
+	NetworkId(-1);
+	Layer(4);
+}
+
+Object("mlc_godray15", "mlc_godray", -1213401697)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(-87.000, 50.000, -34.000);
+	SeqNo(-1213401697);
+	Team(0);
+	NetworkId(-1);
+	Layer(4);
+}
+
+Object("mlc_godray10", "mlc_godray", -1026305353)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(-205.000, 50.000, -165.000);
+	SeqNo(-1026305353);
+	Team(0);
+	NetworkId(-1);
+	Layer(4);
+}
+
+Object("mlc_godray1", "mlc_godray", -924219240)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(92.000, 50.000, 205.000);
+	SeqNo(-924219240);
+	Team(0);
+	NetworkId(-1);
+	Layer(4);
+}
+
+Object("mlc_godray8", "mlc_godray", -595804495)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(-116.000, 50.000, -114.000);
+	SeqNo(-595804495);
+	Team(0);
+	NetworkId(-1);
+	Layer(4);
+}

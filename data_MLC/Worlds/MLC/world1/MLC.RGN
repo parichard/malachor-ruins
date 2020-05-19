@@ -1,0 +1,50 @@
+Version(1);
+RegionCount(6);
+
+Region("rainshadow", 0)
+{
+	Position(-231.437164, 20.195383, -134.708054);
+	Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+	Size(20.000000, 15.000000, 25.000000);
+	Name("rainshadow");
+}
+
+Region("deathregion", 0)
+{
+	Position(-108.159065, -40.071140, -132.512848);
+	Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+	Size(458.765228, 10.000000, 578.167725);
+	Name("deathregion");
+}
+
+Region("mapbounds", 0)
+{
+	Position(-143.479263, -11.047318, -138.694351);
+	Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+	Size(165.459198, 10.000000, 134.466705);
+	Name("map");
+}
+
+Region("shadow directional=0.3 directional1=0.5 colortop=189,106,91 colorbottom=0,0,47", 0)
+{
+	Position(-229.449738, 20.140060, -129.259171);
+	Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+	Size(25.000000, 15.000000, 21.611664);
+	Name("shadow");
+}
+
+Region("shadow directional=0.7 directional1=0.7 colortop=17,16,24 colorbottom=77,17,17", 0)
+{
+	Position(-227.655518, 7.380032, -162.568466);
+	Rotation(0.999976, 0.009682, 0.000000, 0.000000);
+	Size(15.312973, 12.970665, 11.611294);
+	Name("shadow1");
+}
+
+Region("shadow directional=1 directional1=1 colortop=0,0,0 colorbottom=0,0,0", 0)
+{
+	Position(-153.538284, -53.765701, -151.969620);
+	Rotation(1.000005, 0.000000, 0.000095, 0.000000);
+	Size(451.995514, 52.269493, 629.161499);
+	Name("Region2");
+}

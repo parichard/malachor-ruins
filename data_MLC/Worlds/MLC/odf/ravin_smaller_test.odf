@@ -1,0 +1,9 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"ravin_smaller_test.msh"
+
+
+[Properties]		
+
+GeometryName	=	"ravin_smaller_test"

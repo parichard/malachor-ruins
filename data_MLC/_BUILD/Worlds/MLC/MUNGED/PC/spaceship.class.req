@@ -1,0 +1,14 @@
+
+ucft
+{
+	REQN
+	{
+		"model"
+		"spaceship"
+	}
+	REQN
+	{
+		"class"
+		"spaceship_light"
+	}
+}

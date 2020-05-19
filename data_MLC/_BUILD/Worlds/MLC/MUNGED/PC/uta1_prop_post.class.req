@@ -1,0 +1,14 @@
+
+ucft
+{
+	REQN
+	{
+		"model"
+		"uta1_prop_post"
+	}
+	REQN
+	{
+		"config"
+		"uta1_post_spot"
+	}
+}

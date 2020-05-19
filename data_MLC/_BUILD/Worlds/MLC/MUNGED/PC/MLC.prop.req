@@ -1,0 +1,14 @@
+
+ucft
+{
+	REQN
+	{
+		"model"
+		"bones_foliage"
+		"cylinderdown_folliage"
+		"cylinder_folliage"
+		"bones_sml_foliage"
+		"vsmall_rock_folliage"
+		"small_rock_folliage"
+	}
+}

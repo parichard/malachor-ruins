@@ -1,0 +1,22 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"pyramide_red_cap.msh"
+
+
+[Properties]		
+
+GeometryName	=	"pyramide_red_cap"
+FoleyFXGroup    = "stone_foley"
+
+AttachEffect = "uta1_steamgrate"
+AttachToHardPoint = "hp_caller01"
+AttachToHardPoint = "hp_caller02"
+AttachToHardPoint = "hp_caller03"
+AttachToHardPoint = "hp_caller04"
+AttachToHardPoint = "hp_caller05"
+AttachToHardPoint = "hp_caller06"
+
+AttachEffect = "uta1_post_spot_red"
+AttachToHardPoint = "hp_caller7"
+AttachToHardPoint = "hp_caller8"

@@ -1,0 +1,9 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"LowPolyRock_x.msh"
+
+
+[Properties]		
+
+GeometryName	=	"LowPolyRock_x"

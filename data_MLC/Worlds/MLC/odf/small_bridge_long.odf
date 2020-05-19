@@ -1,0 +1,10 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"small_bridge_long.msh"
+
+
+[Properties]		
+
+GeometryName	=	"small_bridge_long"
+FoleyFXGroup    = "dirt_foley"

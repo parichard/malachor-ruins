@@ -1,0 +1,9 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"memorial.msh"
+
+
+[Properties]		
+
+GeometryName	=	"memorial"

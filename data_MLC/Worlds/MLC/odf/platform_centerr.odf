@@ -1,0 +1,9 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"platform_centerr.msh"
+
+
+[Properties]		
+
+GeometryName	=	"platform_centerr"

@@ -1,0 +1,9 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"pyramide_outside.msh"
+
+
+[Properties]		
+
+GeometryName	=	"pyramide_outside"

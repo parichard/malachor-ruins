@@ -1,0 +1,12 @@
+[GameObjectClass]		
+
+ClassLabel		=	"godray"
+
+[Properties]		
+
+Radius = "3.0"
+MinLifetime = "10.0"
+MaxLifetime = "15.0"
+MinAlpha = "0.20"
+MaxAlpha = "0.9"
+Color = "180 180 180"

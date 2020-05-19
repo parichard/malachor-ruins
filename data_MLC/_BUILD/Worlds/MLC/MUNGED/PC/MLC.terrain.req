@@ -1,0 +1,11 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"dark_stone"
+		"dirt"
+		"geo_detail"
+	}
+}

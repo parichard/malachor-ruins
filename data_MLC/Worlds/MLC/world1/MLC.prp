@@ -1,0 +1,56 @@
+Layer(0)
+{
+	SpreadFactor(0.3);
+ 	Mesh()
+	{
+		File("bones_foliage.msh", 80);
+		Frequency(35);
+		Scale(1.0);
+		Stiffness(0.0);
+		ColorVariation(0.3);
+	}
+	Mesh()
+	{
+		File("cylinderdown_folliage.msh", 80);
+		Frequency(20);
+		Scale(1.0);
+		Stiffness(0.0);
+		ColorVariation(0.2);
+	}
+	 	Mesh()
+	{
+		File("cylinder_folliage.msh", 80);
+		Frequency(15);
+		Scale(1.0);
+		Stiffness(0.0);
+		ColorVariation(0.2);
+	}
+	Mesh()
+	{
+		File("bones_sml_foliage.msh", 80);
+		Frequency(30);
+		Scale(1.0);
+		Stiffness(0.0);
+		ColorVariation(0.2);	
+	}
+}
+Layer(1)
+{
+	SpreadFactor(0.1);
+ 	Mesh()
+	{
+		File("vsmall_rock_folliage.msh", 80);
+		Frequency(80);
+		Scale(1.0);
+		Stiffness(0.0);
+		ColorVariation(0.2);
+	}
+	Mesh()
+	{
+		File("small_rock_folliage.msh", 80);
+		Frequency(20);
+		Scale(1.0);
+		Stiffness(0.0);
+		ColorVariation(0.15);
+	}
+}

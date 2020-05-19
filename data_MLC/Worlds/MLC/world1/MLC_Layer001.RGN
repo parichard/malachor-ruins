@@ -1,0 +1,20 @@
+Version(1);
+RegionCount(2);
+
+Region("soundstream geo_amb_desert 1.5", 1)
+{
+	Layer(4);
+	Position(-153.239883, -0.240395, -139.136093);
+	Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+	Size(307.148224, 10.000000, 83.596329);
+	Name("Region0");
+}
+
+Region("soundspace cave", 0)
+{
+	Layer(4);
+	Position(-229.156860, 13.116001, -134.437195);
+	Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+	Size(20.886810, 23.795982, 32.963684);
+	Name("Region1");
+}

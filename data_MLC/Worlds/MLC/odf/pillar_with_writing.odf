@@ -1,0 +1,9 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"pillar_with_writing.msh"
+
+
+[Properties]		
+
+GeometryName	=	"pillar_with_writing"

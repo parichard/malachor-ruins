@@ -1,0 +1,29 @@
+
+ucft
+{
+	REQN
+	{
+		"light"
+		"mlc_spotlights"
+	}
+	REQN
+	{
+		"terrain"
+		""
+	}
+	REQN
+	{
+		"config"
+		""
+	}
+	REQN
+	{
+		"path"
+		""
+	}
+	REQN
+	{
+		"class"
+		"uta1_prop_post"
+	}
+}

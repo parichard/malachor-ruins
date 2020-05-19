@@ -1,0 +1,9 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"bridge.msh"
+
+
+[Properties]		
+
+GeometryName	=	"bridge"

@@ -1,0 +1,498 @@
+Logging LevelPack
+19:19:4305/01/20
+
+=== tur_bldg_all_recoilless.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_all_recoilless.class.req
+Missing file imp_bldg_bandturret_exp.class
+    Reqd by munged\pc\tur_bldg_all_recoilless.class.req
+Missing file com_weap_veh_fly_recoilless.class
+    Reqd by munged\pc\tur_weap_spa_recoilless_rifle.class.req
+Missing file com_weap_veh_fly_recoilless_ord.class
+    Reqd by munged\pc\tur_weap_spa_recoilless_rifle_ord.class.req
+
+=== tur_bldg_beam.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_beam.class.req
+Missing file hud_enclosedturret_icon.texture
+    Reqd by munged\pc\tur_bldg_beam.class.req
+Missing file com_weap_veh_beam.class
+    Reqd by munged\pc\tur_weap_beam.class.req
+Missing file com_weap_veh_beam_ord.class
+    Reqd by munged\pc\tur_weap_beam_ord.class.req
+
+=== tur_bldg_built_beam.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_built_beam.class.req
+Missing file hud_enclosedturret_icon.texture
+    Reqd by munged\pc\tur_bldg_built_beam.class.req
+Missing file com_weap_veh_beam.class
+    Reqd by munged\pc\tur_weap_beam.class.req
+Missing file com_weap_veh_beam_ord.class
+    Reqd by munged\pc\tur_weap_beam_ord.class.req
+
+=== tur_bldg_built_chaingun.lvl ===
+Missing file hud_enclosedturret_icon.texture
+    Reqd by munged\pc\tur_bldg_built_chaingun.class.req
+Missing file com_weap_veh_chaingun.class
+    Reqd by munged\pc\tur_weap_chaingun.class.req
+Missing file com_weap_veh_chaingun_ord.class
+    Reqd by munged\pc\tur_weap_chaingun_ord.class.req
+
+=== tur_bldg_chaingun.lvl ===
+Missing file hud_enclosedturret_icon.texture
+    Reqd by munged\pc\tur_bldg_chaingun.class.req
+Missing file com_weap_veh_chaingun.class
+    Reqd by munged\pc\tur_weap_chaingun.class.req
+Missing file com_weap_veh_chaingun_ord.class
+    Reqd by munged\pc\tur_weap_chaingun_ord.class.req
+
+=== tur_bldg_chaingun_roof.lvl ===
+Missing file com_weap_veh_laser.class
+    Reqd by munged\pc\tur_weap_laser_auto.class.req
+Missing file com_weap_veh_laser_ord.class
+    Reqd by munged\pc\tur_weap_laser_auto_ord.class.req
+
+=== tur_bldg_chaingun_tripod.lvl ===
+Missing file com_weap_inf_chaingun.class
+    Reqd by munged\pc\tur_weap_chaingun_auto.class.req
+Missing file com_weap_inf_chaingun_ord.class
+    Reqd by munged\pc\tur_weap_chaingun_auto_ord.class.req
+Missing file com_weap_inf_chaingun_tracer.class
+    Reqd by munged\pc\tur_weap_chaingun_auto.class.req
+
+=== tur_bldg_cis_chaingun.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_cis_chaingun.class.req
+Missing file imp_bldg_bandturret_exp.class
+    Reqd by munged\pc\tur_bldg_cis_chaingun.class.req
+Missing file com_weap_veh_fly_chaingun.class
+    Reqd by munged\pc\tur_weap_spa_chaingun.class.req
+Missing file com_weap_veh_fly_chaingun_ord.class
+    Reqd by munged\pc\tur_weap_spa_chaingun_ord.class.req
+
+=== tur_bldg_cis_missile.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_cis_missile.class.req
+Missing file imp_bldg_bandturret_exp.class
+    Reqd by munged\pc\tur_bldg_cis_missile.class.req
+Missing file com_weap_veh_fly_guided_rocket.class
+    Reqd by munged\pc\tur_weap_spa_stinger.class.req
+Missing file com_weap_veh_fly_guided_rocket_ord.class
+    Reqd by munged\pc\tur_weap_spa_stinger_ord.class.req
+
+=== tur_bldg_defensegridturret.lvl ===
+Missing file tur_bldg_defensegridturret.class
+    Reqd by ..\..\..\sides\tur\req\tur_bldg_defensegridturret.req
+
+=== tur_bldg_geoturret.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_geoturret.class.req
+Missing file hud_geo_turret_icon.texture
+    Reqd by munged\pc\tur_bldg_geoturret.class.req
+Missing file reticule_rifle.texture
+    Reqd by munged\pc\tur_weap_geoturret.class.req
+Missing file geo_blast_ring.model
+    Reqd by munged\pc\geo_sfx_weap_blunderbluss_ord.config.req
+
+=== tur_bldg_guided_rocket.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_guided_rocket.class.req
+Missing file hud_enclosedturret_icon.texture
+    Reqd by munged\pc\tur_bldg_guided_rocket.class.req
+Missing file com_weap_veh_guided_rocket.class
+    Reqd by munged\pc\tur_weap_guided_rocket.class.req
+Missing file com_weap_veh_guided_rocket_ord.class
+    Reqd by munged\pc\tur_weap_guided_rocket_ord.class.req
+
+=== tur_bldg_hoth_dishturret.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_hoth_dishturret.class.req
+Missing file hud_all_dishturret_icon.texture
+    Reqd by munged\pc\tur_bldg_hoth_dishturret.class.req
+Missing file hoth_main_1.texture
+    Reqd by munged\pc\hoth_bldg_dish_turret.model.req
+            munged\pc\hoth_bldg_dish_turret_destroyed.model.req
+Missing file com_weap_veh_recoilless.class
+    Reqd by munged\pc\tur_weap_hoth_dishturret.class.req
+Missing file com_weap_veh_recoilless_ord.class
+    Reqd by munged\pc\tur_weap_hoth_dishturret_ord.class.req
+Missing file com_weap_inf_ord_hum_lg.class
+    Reqd by munged\pc\tur_weap_hoth_dishturret_ord.class.req
+
+=== tur_bldg_hoth_lasermortar.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_hoth_lasermortar.class.req
+Missing file hud_all_turret_icon.texture
+    Reqd by munged\pc\tur_bldg_hoth_lasermortar.class.req
+Missing file com_weap_veh_laser.class
+    Reqd by munged\pc\tur_weap_hoth_lasermortar_laser.class.req
+Missing file com_weap_veh_laser_ord.class
+    Reqd by munged\pc\tur_weap_hoth_lasermortar_laser_ord.class.req
+
+=== tur_bldg_imp_beam.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_imp_beam.class.req
+Missing file all_bldg_blisterturret_exp.class
+    Reqd by munged\pc\tur_bldg_imp_beam.class.req
+Missing file com_weap_veh_fly_beam.class
+    Reqd by munged\pc\tur_weap_spa_beam.class.req
+Missing file com_weap_veh_fly_beam_ord.class
+    Reqd by munged\pc\tur_weap_spa_beam_ord.class.req
+
+=== tur_bldg_laser.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_laser.class.req
+Missing file hud_enclosedturret_icon.texture
+    Reqd by munged\pc\tur_bldg_laser.class.req
+Missing file com_weap_veh_laser.class
+    Reqd by munged\pc\tur_weap_laser.class.req
+Missing file com_weap_veh_laser_ord.class
+    Reqd by munged\pc\tur_weap_laser_ord.class.req
+
+=== tur_bldg_mortar.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_mortar.class.req
+Missing file hud_enclosedturret_icon.texture
+    Reqd by munged\pc\tur_bldg_mortar.class.req
+Missing file com_weap_veh_mortar.class
+    Reqd by munged\pc\tur_weap_mortar.class.req
+Missing file com_weap_veh_mortar_ord.class
+    Reqd by munged\pc\tur_weap_mortar_ord.class.req
+
+=== tur_bldg_recoilless_fel_auto.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_recoilless_fel_auto.class.req
+Missing file com_weap_veh_recoilless.class
+    Reqd by munged\pc\tur_weap_recoilless_rifle.class.req
+Missing file com_weap_veh_recoilless_ord.class
+    Reqd by munged\pc\tur_weap_recoilless_rifle_ord.class.req
+Missing file mediumsmoketrail.config
+    Reqd by munged\pc\tur_myg_recoilless_md_exp.class.req
+Missing file dirtspray.config
+    Reqd by munged\pc\tur_bldg_recoilless_fel_auto.class.req
+
+=== tur_bldg_recoilless_kas.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_recoilless_kas.class.req
+Missing file com_weap_veh_recoilless.class
+    Reqd by munged\pc\tur_weap_recoilless_kas.class.req
+Missing file com_weap_veh_mortar_ord.class
+    Reqd by munged\pc\tur_weap_recoilless_kas_ord.class.req
+Missing file mediumsmoketrail.config
+    Reqd by munged\pc\tur_bldg_recoilless_lg_exp.class.req
+Missing file dirtspray.config
+    Reqd by munged\pc\tur_bldg_recoilless_kas.class.req
+
+=== tur_bldg_recoilless_lg.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_recoilless_lg.class.req
+Missing file com_weap_veh_recoilless.class
+    Reqd by munged\pc\tur_weap_recoilless_rifle.class.req
+Missing file com_weap_veh_recoilless_ord.class
+    Reqd by munged\pc\tur_weap_recoilless_rifle_ord.class.req
+Missing file mediumsmoketrail.config
+    Reqd by munged\pc\tur_bldg_recoilless_lg_exp.class.req
+Missing file dirtspray.config
+    Reqd by munged\pc\tur_bldg_recoilless_lg.class.req
+
+=== tur_bldg_recoilless_md.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_recoilless_md.class.req
+Missing file com_weap_veh_recoilless.class
+    Reqd by munged\pc\tur_weap_recoilless_rifle.class.req
+Missing file com_weap_veh_recoilless_ord.class
+    Reqd by munged\pc\tur_weap_recoilless_rifle_ord.class.req
+Missing file mediumsmoketrail.config
+    Reqd by munged\pc\tur_bldg_recoilless_md_exp.class.req
+Missing file dirtspray.config
+    Reqd by munged\pc\tur_bldg_recoilless_md.class.req
+
+=== tur_bldg_recoilless_myg_auto.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_recoilless_myg_auto.class.req
+Missing file com_weap_veh_recoilless.class
+    Reqd by munged\pc\tur_myg_recoilless_rifle.class.req
+Missing file com_weap_veh_recoilless_ord.class
+    Reqd by munged\pc\tur_myg_recoilless_rifle_ord.class.req
+Missing file mediumsmoketrail.config
+    Reqd by munged\pc\tur_myg_recoilless_md_exp.class.req
+Missing file dirtspray.config
+    Reqd by munged\pc\tur_bldg_recoilless_myg_auto.class.req
+
+=== tur_bldg_recoilless_nab_auto.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_recoilless_nab_auto.class.req
+Missing file com_weap_veh_recoilless.class
+    Reqd by munged\pc\tur_weap_nab_recoilless_rifle.class.req
+Missing file com_weap_veh_recoilless_ord.class
+    Reqd by munged\pc\tur_weap_recoilless_rifle_ord.class.req
+Missing file mediumsmoketrail.config
+    Reqd by munged\pc\tur_myg_recoilless_md_exp.class.req
+Missing file dirtspray.config
+    Reqd by munged\pc\tur_bldg_recoilless_nab_auto.class.req
+
+=== tur_bldg_rep_cannon.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_rep_cannon.class.req
+Missing file imp_bldg_bandturret_exp.class
+    Reqd by munged\pc\tur_bldg_rep_cannon.class.req
+Missing file com_weap_veh_fly_chaingun.class
+    Reqd by munged\pc\tur_weap_spa_cannon.class.req
+Missing file com_weap_veh_fly_chaingun_ord.class
+    Reqd by munged\pc\tur_weap_spa_cannon_ord.class.req
+
+=== tur_bldg_rep_laser.lvl ===
+Missing file tur_bldg_rep_laser.class
+    Reqd by ..\..\..\sides\tur\req\tur_bldg_rep_laser.req
+
+=== tur_bldg_spa_all_beam.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_spa_all_beam.class.req
+Missing file all_bldg_blisterturret_exp.class
+    Reqd by munged\pc\tur_bldg_spa_all_beam.class.req
+Missing file com_weap_veh_fly_beam.class
+    Reqd by munged\pc\tur_weap_spa_beam.class.req
+Missing file com_weap_veh_fly_beam_ord.class
+    Reqd by munged\pc\tur_weap_spa_beam_ord.class.req
+
+=== tur_bldg_spa_all_cannon.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_spa_all_cannon.class.req
+Missing file all_bldg_moncal_roundturret_exp.class
+    Reqd by munged\pc\tur_bldg_spa_all_cannon.class.req
+Missing file com_weap_veh_fly_chaingun.class
+    Reqd by munged\pc\tur_weap_spa_cannon.class.req
+Missing file com_weap_veh_fly_chaingun_ord.class
+    Reqd by munged\pc\tur_weap_spa_cannon_ord.class.req
+
+=== tur_bldg_spa_all_chaingun.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_spa_all_chaingun.class.req
+Missing file all_bldg_moncal_roundturret_exp.class
+    Reqd by munged\pc\tur_bldg_spa_all_chaingun.class.req
+Missing file com_weap_veh_fly_chaingun.class
+    Reqd by munged\pc\tur_weap_spa_chaingun.class.req
+Missing file com_weap_veh_fly_chaingun_ord.class
+    Reqd by munged\pc\tur_weap_spa_chaingun_ord.class.req
+
+=== tur_bldg_spa_all_guided_rocket.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_spa_all_guided_rocket.class.req
+Missing file all_bldg_moncal_roundturret_exp.class
+    Reqd by munged\pc\tur_bldg_spa_all_guided_rocket.class.req
+Missing file com_weap_veh_fly_guided_rocket.class
+    Reqd by munged\pc\tur_bldg_spa_all_guided_rocket.class.req
+
+=== tur_bldg_spa_all_recoilless.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_spa_all_recoilless.class.req
+Missing file all_bldg_moncal_roundturret_exp.class
+    Reqd by munged\pc\tur_bldg_spa_all_recoilless.class.req
+Missing file com_weap_veh_fly_recoilless.class
+    Reqd by munged\pc\tur_weap_spa_recoilless_rifle.class.req
+Missing file com_weap_veh_fly_recoilless_ord.class
+    Reqd by munged\pc\tur_weap_spa_recoilless_rifle_ord.class.req
+
+=== tur_bldg_spa_cis_beam.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_spa_cis_beam.class.req
+Missing file cis_bldg_boxturret_exp.class
+    Reqd by munged\pc\tur_bldg_spa_cis_beam.class.req
+Missing file com_weap_veh_fly_beam.class
+    Reqd by munged\pc\tur_weap_spa_beam.class.req
+Missing file com_weap_veh_fly_beam_ord.class
+    Reqd by munged\pc\tur_weap_spa_beam_ord.class.req
+
+=== tur_bldg_spa_cis_cannon.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_spa_cis_cannon.class.req
+Missing file cis_bldg_boxturret_exp.class
+    Reqd by munged\pc\tur_bldg_spa_cis_cannon.class.req
+Missing file com_weap_veh_fly_chaingun.class
+    Reqd by munged\pc\tur_weap_spa_cannon.class.req
+Missing file com_weap_veh_fly_chaingun_ord.class
+    Reqd by munged\pc\tur_weap_spa_cannon_ord.class.req
+
+=== tur_bldg_spa_cis_chaingun.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_spa_cis_chaingun.class.req
+Missing file cis_bldg_boxturret_exp.class
+    Reqd by munged\pc\tur_bldg_spa_cis_chaingun.class.req
+Missing file com_weap_veh_fly_chaingun.class
+    Reqd by munged\pc\tur_weap_spa_chaingun.class.req
+Missing file com_weap_veh_fly_chaingun_ord.class
+    Reqd by munged\pc\tur_weap_spa_chaingun_ord.class.req
+
+=== tur_bldg_spa_cis_guided_rocket.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_spa_cis_guided_rocket.class.req
+Missing file cis_bldg_boxturret_exp.class
+    Reqd by munged\pc\tur_bldg_spa_cis_guided_rocket.class.req
+Missing file com_weap_veh_fly_guided_rocket.class
+    Reqd by munged\pc\tur_bldg_spa_cis_guided_rocket.class.req
+
+=== tur_bldg_spa_cis_recoilless.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_spa_cis_recoilless.class.req
+Missing file cis_bldg_boxturret_exp.class
+    Reqd by munged\pc\tur_bldg_spa_cis_recoilless.class.req
+Missing file com_weap_veh_fly_recoilless.class
+    Reqd by munged\pc\tur_weap_spa_recoilless_rifle.class.req
+Missing file com_weap_veh_fly_recoilless_ord.class
+    Reqd by munged\pc\tur_weap_spa_recoilless_rifle_ord.class.req
+
+=== tur_bldg_spa_guided_rocket.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_spa_guided_rocket.class.req
+Missing file imp_bldg_bandturret_exp.class
+    Reqd by munged\pc\tur_bldg_spa_guided_rocket.class.req
+Missing file com_weap_veh_fly_guided_rocket.class
+    Reqd by munged\pc\tur_bldg_spa_guided_rocket.class.req
+
+=== tur_bldg_spa_imp_beam.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_spa_imp_beam.class.req
+Missing file imp_bldg_boxturret_exp.class
+    Reqd by munged\pc\tur_bldg_spa_imp_beam.class.req
+Missing file com_weap_veh_fly_beam.class
+    Reqd by munged\pc\tur_weap_spa_beam.class.req
+Missing file com_weap_veh_fly_beam_ord.class
+    Reqd by munged\pc\tur_weap_spa_beam_ord.class.req
+
+=== tur_bldg_spa_imp_cannon.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_spa_imp_cannon.class.req
+Missing file spa1_bldg_stardestroyer.texture
+    Reqd by munged\pc\imp_bldg_bandturret_chunk1.model.req
+            munged\pc\imp_bldg_bandturret_chunk2.model.req
+Missing file spa1_bldg_stardestroyer_02.texture
+    Reqd by munged\pc\imp_bldg_bandturret_chunk2.model.req
+Missing file imp_bldg_bandturret_exp.class
+    Reqd by munged\pc\tur_bldg_spa_imp_cannon.class.req
+Missing file com_weap_veh_fly_chaingun.class
+    Reqd by munged\pc\tur_weap_spa_cannon.class.req
+Missing file com_weap_veh_fly_chaingun_ord.class
+    Reqd by munged\pc\tur_weap_spa_cannon_ord.class.req
+
+=== tur_bldg_spa_imp_chaingun.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_spa_imp_chaingun.class.req
+Missing file imp_bldg_boxturret_exp.class
+    Reqd by munged\pc\tur_bldg_spa_imp_chaingun.class.req
+Missing file com_weap_veh_fly_chaingun.class
+    Reqd by munged\pc\tur_weap_spa_chaingun.class.req
+Missing file com_weap_veh_fly_chaingun_ord.class
+    Reqd by munged\pc\tur_weap_spa_chaingun_ord.class.req
+
+=== tur_bldg_spa_imp_guided_rocket.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_spa_imp_guided_rocket.class.req
+Missing file spa1_bldg_stardestroyer.texture
+    Reqd by munged\pc\imp_bldg_bandturret_chunk1.model.req
+            munged\pc\imp_bldg_bandturret_chunk2.model.req
+Missing file spa1_bldg_stardestroyer_02.texture
+    Reqd by munged\pc\imp_bldg_bandturret_chunk2.model.req
+Missing file imp_bldg_bandturret_exp.class
+    Reqd by munged\pc\tur_bldg_spa_imp_guided_rocket.class.req
+Missing file com_weap_veh_fly_guided_rocket.class
+    Reqd by munged\pc\tur_weap_spa_imp_guided_rocket.class.req
+
+=== tur_bldg_spa_imp_recoilless.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_spa_imp_recoilless.class.req
+Missing file spa1_bldg_stardestroyer.texture
+    Reqd by munged\pc\imp_bldg_bandturret_chunk1.model.req
+            munged\pc\imp_bldg_bandturret_chunk2.model.req
+Missing file spa1_bldg_stardestroyer_02.texture
+    Reqd by munged\pc\imp_bldg_bandturret_chunk2.model.req
+Missing file imp_bldg_bandturret_exp.class
+    Reqd by munged\pc\tur_bldg_spa_imp_recoilless.class.req
+Missing file com_weap_veh_fly_recoilless.class
+    Reqd by munged\pc\tur_weap_spa_recoilless_rifle.class.req
+Missing file com_weap_veh_fly_recoilless_ord.class
+    Reqd by munged\pc\tur_weap_spa_recoilless_rifle_ord.class.req
+
+=== tur_bldg_spa_rep_beam.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_spa_rep_beam.class.req
+Missing file rep_bldg_boxturret_exp.class
+    Reqd by munged\pc\tur_bldg_spa_rep_beam.class.req
+Missing file com_weap_veh_fly_beam.class
+    Reqd by munged\pc\tur_weap_spa_beam.class.req
+Missing file com_weap_veh_fly_beam_ord.class
+    Reqd by munged\pc\tur_weap_spa_beam_ord.class.req
+
+=== tur_bldg_spa_rep_cannon.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_spa_rep_cannon.class.req
+Missing file rep_bldg_bandturret_exp.class
+    Reqd by munged\pc\tur_bldg_spa_rep_cannon.class.req
+Missing file com_weap_veh_fly_chaingun.class
+    Reqd by munged\pc\tur_weap_spa_cannon.class.req
+Missing file com_weap_veh_fly_chaingun_ord.class
+    Reqd by munged\pc\tur_weap_spa_cannon_ord.class.req
+
+=== tur_bldg_spa_rep_chaingun.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_spa_rep_chaingun.class.req
+Missing file rep_bldg_boxturret_exp.class
+    Reqd by munged\pc\tur_bldg_spa_rep_chaingun.class.req
+Missing file com_weap_veh_fly_chaingun.class
+    Reqd by munged\pc\tur_weap_spa_chaingun.class.req
+Missing file com_weap_veh_fly_chaingun_ord.class
+    Reqd by munged\pc\tur_weap_spa_chaingun_ord.class.req
+
+=== tur_bldg_spa_rep_guided_rocket.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_spa_rep_guided_rocket.class.req
+Missing file rep_bldg_bandturret_exp.class
+    Reqd by munged\pc\tur_bldg_spa_rep_guided_rocket.class.req
+Missing file com_weap_veh_fly_guided_rocket.class
+    Reqd by munged\pc\tur_bldg_spa_rep_guided_rocket.class.req
+
+=== tur_bldg_spa_rep_recoilless.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_spa_rep_recoilless.class.req
+Missing file rep_bldg_bandturret_exp.class
+    Reqd by munged\pc\tur_bldg_spa_rep_recoilless.class.req
+Missing file com_weap_veh_fly_recoilless.class
+    Reqd by munged\pc\tur_weap_spa_recoilless_rifle.class.req
+Missing file com_weap_veh_fly_recoilless_ord.class
+    Reqd by munged\pc\tur_weap_spa_recoilless_rifle_ord.class.req
+
+=== tur_bldg_tat_barge.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_tat_barge.class.req
+Missing file hud_all_minigun_icon.texture
+    Reqd by munged\pc\tur_bldg_tat_barge.class.req
+Missing file tat_skiff01.texture
+    Reqd by munged\pc\tat_bldg_barge_turret.model.req
+Missing file com_weap_bldg_gunturret_exp.class
+    Reqd by munged\pc\tur_bldg_tat_barge.class.req
+Missing file com_weap_veh_laser.class
+    Reqd by munged\pc\tur_weap_laser.class.req
+Missing file com_weap_veh_laser_ord.class
+    Reqd by munged\pc\tur_weap_laser_ord.class.req
+
+=== tur_bldg_tower.lvl ===
+Missing file hud_yav_pedastal_turret_icon.texture
+    Reqd by munged\pc\tur_bldg_tower.class.req
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_bldg_tower.class.req
+Missing file com_weap_veh_laser.class
+    Reqd by munged\pc\tur_weap_laser.class.req
+Missing file com_weap_veh_laser_ord.class
+    Reqd by munged\pc\tur_weap_laser_ord.class.req
+
+=== tur_weap_built_gunturret.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\tur_weap_built_gunturret.class.req
+Missing file hud_enclosedturret_icon.texture
+    Reqd by munged\pc\tur_weap_built_gunturret.class.req
+Missing file com_weap_veh_laser.class
+    Reqd by munged\pc\tur_weap_laser.class.req
+Missing file com_weap_veh_laser_ord.class
+    Reqd by munged\pc\tur_weap_laser_ord.class.req
+   0 Errors    0 Warnings
+

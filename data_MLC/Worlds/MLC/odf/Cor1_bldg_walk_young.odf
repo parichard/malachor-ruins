@@ -1,0 +1,12 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"Cor1_bldg_walk_young.msh"
+
+
+[Properties]		
+
+GeometryName	=	"Cor1_bldg_walk_young"
+
+
+

@@ -1,0 +1,194 @@
+Version(10);
+PathCount(2);
+
+Path("type_PatrolPath patrolcp2")
+{
+	Data(0);
+	PathType(0);
+	PathSpeedType(0);
+	PathTime(0.000000);
+	OffsetPath(0);
+	SplineType("Catmull-Rom");
+
+	Properties(1)
+	{
+	}
+
+	Nodes(6)
+	{
+		Node()
+		{
+			Position(-16.306963, 0.805690, -166.915466);
+			Knot(0.000000);
+			Data(0);
+			Time(1.000000);
+			PauseTime(0.000000);
+			Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+			Properties(0)
+			{
+			}
+		}
+
+		Node()
+		{
+			Position(-17.846069, 0.986107, -152.158829);
+			Knot(0.000000);
+			Data(0);
+			Time(1.000000);
+			PauseTime(0.000000);
+			Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+			Properties(0)
+			{
+			}
+		}
+
+		Node()
+		{
+			Position(-9.467024, 0.095357, -139.671921);
+			Knot(0.000000);
+			Data(0);
+			Time(1.000000);
+			PauseTime(0.000000);
+			Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+			Properties(0)
+			{
+			}
+		}
+
+		Node()
+		{
+			Position(-16.650295, 0.000000, -123.985016);
+			Knot(0.000000);
+			Data(0);
+			Time(1.000000);
+			PauseTime(0.000000);
+			Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+			Properties(0)
+			{
+			}
+		}
+
+		Node()
+		{
+			Position(-30.132545, 1.063538, -131.476715);
+			Knot(0.000000);
+			Data(0);
+			Time(1.000000);
+			PauseTime(0.000000);
+			Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+			Properties(0)
+			{
+			}
+		}
+
+		Node()
+		{
+			Position(-20.954903, 0.484728, -147.277679);
+			Knot(0.000000);
+			Data(0);
+			Time(1.000000);
+			PauseTime(0.000000);
+			Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+			Properties(0)
+			{
+			}
+		}
+
+	}
+
+}
+
+Path("type_PatrolPath patrolcp1")
+{
+	Data(0);
+	PathType(0);
+	PathSpeedType(0);
+	PathTime(0.000000);
+	OffsetPath(0);
+	SplineType("Catmull-Rom");
+
+	Properties(1)
+	{
+	}
+
+	Nodes(5)
+	{
+		Node()
+		{
+			Position(-223.093903, 17.880068, -128.475830);
+			Knot(0.000000);
+			Data(1);
+			Time(1.000000);
+			PauseTime(0.000000);
+			Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+			Properties(2)
+			{
+				WaitMin(1.000000);
+				WaitMax(2.500000);
+			}
+		}
+
+		Node()
+		{
+			Position(-224.596954, 18.115231, -117.954811);
+			Knot(0.000000);
+			Data(1);
+			Time(1.000000);
+			PauseTime(0.000000);
+			Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+			Properties(2)
+			{
+				WaitMin(1.000000);
+				WaitMax(2.500000);
+			}
+		}
+
+		Node()
+		{
+			Position(-221.452942, 16.842678, -116.973297);
+			Knot(0.000000);
+			Data(1);
+			Time(1.000000);
+			PauseTime(0.000000);
+			Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+			Properties(2)
+			{
+				WaitMin(1.000000);
+				WaitMax(2.500000);
+			}
+		}
+
+		Node()
+		{
+			Position(-221.343979, 19.141085, -130.390472);
+			Knot(0.000000);
+			Data(1);
+			Time(1.000000);
+			PauseTime(0.000000);
+			Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+			Properties(2)
+			{
+				WaitMin(1.000000);
+				WaitMax(2.500000);
+			}
+		}
+
+		Node()
+		{
+			Position(-242.690933, 18.774109, -129.683334);
+			Knot(0.000000);
+			Data(1);
+			Time(1.000000);
+			PauseTime(0.000000);
+			Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+			Properties(2)
+			{
+				WaitMin(1.000000);
+				WaitMax(2.500000);
+			}
+		}
+
+	}
+
+}
+

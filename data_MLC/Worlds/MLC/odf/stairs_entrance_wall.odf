@@ -1,0 +1,9 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"stairs_entrance_wall.msh"
+
+
+[Properties]		
+
+GeometryName	=	"stairs_entrance_wall"

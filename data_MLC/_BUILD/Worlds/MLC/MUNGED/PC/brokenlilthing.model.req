@@ -1,0 +1,13 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"dark_stone"
+		"harsh_rock_stairs"
+		"ecriture_phtshop"
+		"rock_ore"
+		"rock_ore_bump"
+	}
+}

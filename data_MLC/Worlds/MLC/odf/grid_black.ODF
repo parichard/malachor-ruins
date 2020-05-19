@@ -1,0 +1,11 @@
+[GameObjectClass]       
+
+ClassLabel      =   "prop"
+GeometryName    =   "grid_black.msh"
+
+
+[Properties]        
+
+GeometryName    =   "grid_black"
+
+

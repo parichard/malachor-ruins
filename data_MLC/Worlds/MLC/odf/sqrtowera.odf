@@ -1,0 +1,9 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"sqrtowera.msh"
+
+
+[Properties]		
+
+GeometryName	=	"sqrtowera"

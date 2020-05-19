@@ -1,0 +1,13 @@
+ucft
+{
+	REQN
+	{
+		"congraph"
+		"MLC_1flag"
+	}
+	REQN
+	{
+		"world"
+		"MLC_1flag"
+	}
+}

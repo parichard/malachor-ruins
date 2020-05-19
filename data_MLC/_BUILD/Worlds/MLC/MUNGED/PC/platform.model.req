@@ -1,0 +1,11 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"dark_stone"
+		"rock_ore"
+		"rock_ore_bump"
+	}
+}

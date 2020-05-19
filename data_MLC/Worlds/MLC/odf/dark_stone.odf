@@ -1,0 +1,9 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"dark_stone.msh"
+
+
+[Properties]		
+
+GeometryName	=	"dark_stone"

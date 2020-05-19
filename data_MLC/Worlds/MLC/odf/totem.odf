@@ -1,0 +1,10 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"totem.msh"
+
+
+[Properties]		
+
+GeometryName	=	"totem"
+FoleyFXGroup    = "stone_foley"

@@ -1,0 +1,9 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"tat_item_bone2.msh"
+
+
+[Properties]		
+
+GeometryName	=	"tat_item_bone2"

@@ -1,0 +1,26 @@
+
+ucft
+{
+	REQN
+	{
+		"config"
+		"colorcontrol"
+		"precipitation"
+		"lightning"
+		"fogcloud"
+		"godray"
+		"shadow"
+		"motionblur"
+		"scopeblur"
+		"blur"
+		"hdr"
+	}
+	REQN
+	{
+		"texture"
+		"fx_ember"
+		"lightning"
+		"fluffy"
+		"fx_godray"
+	}
+}

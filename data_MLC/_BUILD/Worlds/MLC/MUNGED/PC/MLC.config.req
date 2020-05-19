@@ -1,0 +1,16 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"mlc_sky_side"
+		"dirt_bump"
+	}
+	REQN
+	{
+		"model"
+		"mlc_sky_dome"
+		"geo_sky_dome_rim"
+	}
+}

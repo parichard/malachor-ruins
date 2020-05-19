@@ -1,0 +1,9 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"smltower.msh"
+
+
+[Properties]		
+
+GeometryName	=	"smltower"

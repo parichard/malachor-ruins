@@ -1,0 +1,9 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"big_rock_d.msh"
+
+
+[Properties]		
+
+GeometryName	=	"big_rock_d"

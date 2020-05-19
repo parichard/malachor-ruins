@@ -1,0 +1,11 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"platform.msh"
+
+
+[Properties]		
+
+GeometryName	=	"platform"
+
+FoleyFXGroup    = "stone_foley"

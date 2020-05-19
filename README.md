@@ -10,5 +10,6 @@ Here is a list of features that could be added to the map based on feedback from
 - a campaign where the clones arrive on malachor to invade it and defeat the sith.
 - 1-flag and 2-flags modes. (1-flag mode is mostly done but I did not include it in the final release as I did not like the way the AI behaved).
 - assault mode.
+- mode with sith vs jedis (similar to assault but conquest could be interesting).
 - compatibility with different eras and modes.
 - sound design and sound fixes. I struggle to understand how sound works in swbf2, so I could not do it myself. However I was thinking a custom music could be cool, and it would also be great to fix the missing wind for gcw and the lightsabers sounds (while making sure the footsteps are working too).

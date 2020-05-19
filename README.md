@@ -1,5 +1,5 @@
 # Malachor: Ruins
-Malachor: Ruins is a Battlefront 2 (2005) cutom made map. 
+Malachor: Ruins is a Battlefront 2 (2005) custom made map. 
 
 Now that the map is finished (aside from the sound bugs which need to be fixed) the next part is to add contents. Contents like eras, modes, and sides.
 

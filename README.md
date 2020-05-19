@@ -1,7 +1,7 @@
 # Malachor: Ruins
 Malachor: Ruins is a Battlefront 2 (2005) cutom made map. 
 
-The reason I am sharing the map privately is to make sure only one 'master' version of the map is being worked on and going around. What I want to prevent is the release of a cluster of seperate versions that are either unfinished or badly made.
+The reason I am sharing the map privately is to make sure only one 'master' version of the map is being worked on and going around. What I want to prevent is the release of a cluster of separate versions that are either unfinished or badly made.
 
 Whatever feature you want to add, please make sure you do not change the map's atmosphere and the map's design (at least for the original conquest mode). Make sure the changes you make are improvements over what has already been made.
 

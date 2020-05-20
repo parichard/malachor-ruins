@@ -1,15 +1,18 @@
 # Malachor: Ruins
+
 _**NOTE: Those files are only useful for modders.**_
 
 ## Malachor: Ruins is a Battlefront 2 (2005) custom made map. 
 
-The reason I am sharing the map files on github is to try to centralise the work and to have only one 'master' version of the map being worked on. Having a cluster of different versions going around would be confusing and I would rather avoid it. If you have never used github before I encourage you to follow the quick tutorial available when you create your account.
+The reason I am sharing the map files on github is to try to centralise the work and to have only one 'master' version of the map being worked on. Having a cluster of different versions going around would be confusing and I think it's best to avoid it. If you have never used github before I encourage you to follow the quick tutorial available when you create your account.
 
 #### Basically, from my understanding of github:
 - Features ideas go in the issues tab.
 - If you want to tackle an issue, you 'assign' yourself to it in the issues tab, this lets everyone else know you are working on it.
 - Whenever you start working on a new feature, you branch out from the master version. This lets you work on your version while leaving the master version in a stable state.
 - Once your work is finished you can pull it back into the master version and the master version essentially becomes your version.
+
+You might also want to download the desktop version of github.
 
 It is my first time using github so I hope this goes smoothly and apologies if things are not working as expected.
 

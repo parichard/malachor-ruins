@@ -4,7 +4,7 @@ _**NOTE: Those files are only useful for modders.**_
 
 ## Malachor: Ruins is a Battlefront 2 (2005) custom made map. 
 
-The reason I am sharing the map files on github is to try to centralise the work and to have only one 'master' version of the map being worked on. Having a cluster of different versions going around would be confusing and I think it's best to avoid it. If you have never used github before I encourage you to follow the quick tutorial available when you create your account.
+The reason I am sharing the map files on github is to try to centralise the work and to have only one 'master' version of the map being worked on. Having a cluster of different versions going around could be confusing and I think it's best to avoid it. If you have never used github before I encourage you to follow the quick tutorial available when you create your account.
 
 #### Basically, from my understanding of github:
 - Features ideas go in the issues tab.
@@ -27,4 +27,4 @@ It is my first time using github so I hope this goes smoothly and apologies if t
 - Sound design and sound fixes. I struggle to understand how sounds work in swbf2, and could not do it myself. Anyways I was thinking a custom music could be cool, and it would also be great to fix the missing wind for gcw and the lightsabers sounds (while making sure the footsteps are working too).
 - I have also been made aware of some performance issues on older devices. This is (I believe) because the map is poorly optimised with no lowrez textures, shadows and mshs.
 
-Feel free to submit an issue if you have other ideas.
+Feel free to submit issues in the issues tab if you have other ideas.

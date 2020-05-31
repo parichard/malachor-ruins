@@ -20,9 +20,10 @@ It is my first time using github so I hope this goes smoothly and apologies if t
 
 - A campaign where the clones arrive on malachor to invade it and defeat the sith (could have it the other way around where the user plays as the sith defending a surprise attack from the jedis).
 - 1-flag and 2-flags modes. (1-flag mode is mostly done but I did not include it in the final release as I did not like the way the AI behaved and it also felt a bit rough).
-- Assault mode.
+- Assault mode (suggested by Ataru).
+- Survival mode (suggested by LitFam).
 - Mode with sith (red lightsabers only) vs jedis (similar to assault but having it as conquest could be interesting).
-- For conquest, a subtle change of the sides' skins could be interesting. And of course custom made heroes could be pretty cool too. (Revan as a hero could be added) 
+- For conquest, a subtle change of the sides' skins could be interesting. And of course custom made heroes could be pretty cool too. (Naelis' Revan as a hero would be dope)
 - Compatibility with different eras and modes.
 - Sound design and sound fixes. I struggle to understand how sounds work in swbf2, and could not do it myself. Anyways I was thinking a custom music could be cool, and it would also be great to fix the missing wind for gcw and the lightsabers sounds (while making sure the footsteps are working too).
 - I have also been made aware of some performance issues on older devices. This is (I believe) because the map is poorly optimised with no lowrez textures, shadows and mshs.
